@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.cart-summary-container {
+  align-self: flex-end;
+}
+
+.cart-summary-heading {
+  color: #616e7c;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+
+.cart-summary {
+  color: #171f46;
+  font-size: 32px;
+}
+
+.cart-summary-description {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.cart-summary-button {
+  background-color: blue;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  border: none;
+  padding: 10px;
+}
